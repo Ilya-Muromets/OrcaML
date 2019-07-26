@@ -1,0 +1,9 @@
+*.zip
+*.npy
+*.mdl
+*.mdl.npy
+*.wav
+*.png
+*.out
+*.pyc
+__pycache__
