@@ -1,4 +1,4 @@
-# OrcaML
+#  OrcaML     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Orca_size-2.svg/2560px-Orca_size-2.svg.png" alt="alt text" width="180" height="100">
 1. pip install  **requirements.txt**
 ---
 
@@ -15,3 +15,4 @@ on folder of 2 second long snippets of whale/background sounds. This will create
 1. Process data as in step 3. of **Instructions for Testing**.
 2. Place data into **data/** structured as shown in the first cell of **OrcaML.ipynb**
 3. Uncomment training in **Train Model** cells of **OrcaML.ipynb** and run.
+
